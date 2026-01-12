@@ -136,8 +136,7 @@ If you find issues or have suggestions, open an issue in this repository.
 
 ## Maintainer and Author
 - Authored and Maintained by: Rahul V S
-<br>
-- Contact: [Rahul](https://github.com/techieRahul17)
+- Github: (https://github.com/techieRahul17)
 <br>
 For questions, issues, or feature requests, please open an issue in this repository: [Issues](https://github.com/techieRahul17/Machine_LearningLabSem6/issues)
 
