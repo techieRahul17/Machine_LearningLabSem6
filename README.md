@@ -135,18 +135,10 @@ Before contributing, please:
 If you find issues or have suggestions, open an issue in this repository.
 
 ## Maintainer and contact
-Authored and Maintained by: Rahul V S
-Contact:[Rahul](https://github.com/techieRahul17)
+- Authored and Maintained by: Rahul V S
+- Contact:[Rahul](https://github.com/techieRahul17)
+<br>
 For questions, issues, or feature requests, please open an issue in this repository: [Issues](https://github.com/techieRahul17/Machine_LearningLabSem6/issues)
 
 ## License
 This repository is provided under the MIT License unless otherwise specified. See the `LICENSE` file for details. If no license file exists and you want to reuse code from this repository, please contact the maintainer to clarify licensing terms.
-
----
-
-If you would like, I can:
-- Generate a `requirements.txt` based on the notebooks and scripts in the repository,
-- Create a small CONTRIBUTING.md that formalizes contribution steps,
-- Or prepare a LICENSE file (for example MIT) and a minimal CODE_OF_CONDUCT.md.
-
-Tell me which of these you want next and I will prepare the file(s).
