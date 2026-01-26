@@ -119,26 +119,11 @@ Tip: If notebooks reference `data/` or relative paths, run the notebook or scrip
 - Record package versions (use `pip freeze > pip-freeze.txt`) if you need to reproduce results across machines.
 - If heavy computation is required, consider sampling or using smaller subsets during development.
 
-## Contributing
-Contributions and improvements are welcome. Suggested workflow:
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-change`.
-3. Make changes and add tests or updated notebooks where appropriate.
-4. Commit and push your branch.
-5. Open a pull request describing the change and rationale.
-
-Before contributing, please:
-- Ensure notebooks run from top to bottom without errors.
-- Keep code clear and well-documented.
-- Add or update a `requirements.txt` entry if you introduce new dependencies.
-
-If you find issues or have suggestions, open an issue in this repository.
 
 ## Maintainer and Author
 - Authored and Maintained by: Rahul V S
 - Github: (https://github.com/techieRahul17)
 <br>
-For questions, issues, or feature requests, please open an issue in this repository: [Issues](https://github.com/techieRahul17/Machine_LearningLabSem6/issues)
 
 ## License
 This repository is provided under the MIT License unless otherwise specified. See the `LICENSE` file for details. If no license file exists and you want to reuse code from this repository, please contact the maintainer to clarify licensing terms.
