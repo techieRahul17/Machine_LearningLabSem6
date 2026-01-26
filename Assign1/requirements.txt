@@ -3,3 +3,8 @@ pandas
 scipy
 scikit-learn
 matplotlib
+seaborn
+xgboost
+tensorflow
+torch
+opencv-python
